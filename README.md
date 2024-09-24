@@ -8,6 +8,8 @@ Text 3
 Text 4
 ANOTHER_1
 ANOTHER_2
+String 3
+String 4
 Text 5
 Sample 3
 Sample 4
