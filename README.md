@@ -7,6 +7,8 @@ Sample 2
 Text 3
 Text 4
 String 3
+INIT_1
+INIT_2
 String 4
 LEVEL_ONE
 LEVEL_TWO
