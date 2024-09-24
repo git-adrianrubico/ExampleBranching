@@ -8,6 +8,8 @@ Text 3
 Text 4
 String 3
 String 4
+LEVEL_ONE
+LEVEL_TWO
 Text 5
 Sample 3
 Sample 4
