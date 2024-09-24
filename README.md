@@ -1,4 +1,6 @@
 Text 1
+String 1
+String 2
 Text 2
 Sample 1
 Sample 2
