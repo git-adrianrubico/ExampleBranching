@@ -22,4 +22,7 @@ Sample 3
 Sample 4
 Text 6
 Text 7
+COIN_1
+COIN_2
+COIN_3
 Text 8
