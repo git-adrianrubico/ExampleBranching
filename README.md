@@ -22,4 +22,9 @@ Sample 3
 Sample 4
 Text 6
 Text 7
+SILVER_1
+SILVER_2
+SILVER_3
+SILVER_4
+SILVER_5
 Text 8
